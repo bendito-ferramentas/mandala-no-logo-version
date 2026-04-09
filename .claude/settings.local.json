@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const fs = require\\('fs'\\); const json = JSON.parse\\(fs.readFileSync\\('src/lib/data/seed.json', 'utf8'\\)\\); console.log\\('Valid JSON'\\); console.log\\('Keys:', Object.keys\\(json\\)\\);\")",
+      "Bash(node -e ':*)"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="90" fill="#FAFAF0"/>
+  <path d="M90 44 C90 44 62 66 62 88 C62 103 74 114 90 114 C106 114 118 103 118 88 C118 66 90 44 90 44Z" fill="#5A8A3C"/>
+  <path d="M90 70 C90 70 72 82 72 94 C72 104 80 110 90 110 C100 110 108 104 108 94 C108 82 90 70 90 70Z" fill="#8BC34A"/>
+  <line x1="90" y1="114" x2="90" y2="138" stroke="#5A8A3C" stroke-width="2.5"/>
+  <text x="90" y="158" font-family="Garamond, Georgia, serif" font-size="16" font-style="italic" fill="#3A5A2A" text-anchor="middle" letter-spacing="1">Naturalis</text>
+</svg>

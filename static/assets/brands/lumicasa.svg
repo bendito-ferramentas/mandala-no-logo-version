@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#F5F0E8"/>
+  <polygon points="90,38 130,70 130,112 50,112 50,70" fill="#2C3E50"/>
+  <rect x="76" y="84" width="28" height="28" fill="#F5F0E8"/>
+  <rect x="82" y="84" width="8" height="14" fill="#C8A96E"/>
+  <rect x="94" y="84" width="8" height="14" fill="#C8A96E"/>
+  <text x="90" y="134" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#2C3E50" text-anchor="middle" letter-spacing="2">LumiCasa</text>
+  <text x="90" y="152" font-family="Georgia, serif" font-size="9" fill="#7F8C8D" text-anchor="middle" letter-spacing="2">TRUSTED QUALITY</text>
+</svg>

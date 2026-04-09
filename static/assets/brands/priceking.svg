@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#F9A825"/>
+  <polygon points="90,34 100,62 130,62 106,80 116,108 90,90 64,108 74,80 50,62 80,62" fill="#1C1C1C"/>
+  <text x="90" y="136" font-family="Arial Black, sans-serif" font-size="15" font-weight="900" fill="#1C1C1C" text-anchor="middle" letter-spacing="1">PRICE KING</text>
+  <text x="90" y="154" font-family="Arial, sans-serif" font-size="9" fill="#1C1C1C" text-anchor="middle" letter-spacing="2">BEST VALUE ALWAYS</text>
+</svg>

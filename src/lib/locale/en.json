@@ -1,0 +1,298 @@
+{
+  "shared": {
+    "macro": "Macro Territory",
+    "territory": "Territory / Brand Activator",
+    "territories": "Territories / Brand Activators",
+    "tier": "Tier",
+    "brand": "Brand",
+    "brands": "Brands",
+    "product": "Product",
+    "products": "Products",
+    "productType": "Type of Product",
+    "productFormat": "Format",
+    "brandArchitecture": "Brand Architecture",
+    "brandRole": "Brand's Role",
+    "claims": "Product Claims",
+    "keyClaims": "Key Claims",
+    "company": "Company",
+    "filter": "Filter",
+    "filters": "Filters",
+
+    "insertPass": "Insert password",
+    "contactForPass": "If you don't have the password, please contact",
+    "yes": "Yes",
+    "no": "No",
+    "back": "Back",
+    "continue": "Continue",
+    "submit": "Submit",
+    "retry": "Restart",
+    "proceedTerritory": "Proceed to territory",
+    "desc": "Description",
+    "browse": "Browse",
+    "enterPass": "Enter",
+    "save": "Save",
+    "goHome": "Go Home",
+    "select": "Select",
+    "noresults": "No results for this search",
+    "createBy": "Created by",
+    "odd": "odd data and design studio"
+  },
+  "intro": {
+    "skip": "Skip Intro",
+    "title": "Grupo Lumina Brand Portfolio",
+    "toHowTo": "Go to How to Read",
+    "slides": {
+      "1": {
+        "title": "Meet the Brand Activators",
+        "subtitle": "Grupo Lumina Portfolio Play",
+        "ready": "Ready?",
+        "footer": "Now, explore the process that led us to the category territories.",
+        "p": [
+          "In 2023 Bendito and Grupo Lumina team gathered together to define the role of brands in the Company.",
+          "We strategically organized the brand portfolio so that each brand can address opportunities across different categories in the market, with a future-ready perspective, without cannibalizing each other.",
+          "The Grupo Lumina Territory Map is guided by the Brand Activators, which are the main purchase motivations related to the category."
+        ]
+      },
+      "2": {
+        "p": [
+          "Having the Category Value Drivers as our starting point, we analyzed several reports from Grupo Lumina in order to find patterns among them that could led us to the main brand activators in the category."
+        ]
+      },
+      "3": {
+        "p": [
+          "We concluded that, despite the different perspectives, the lenses had many points of convergence."
+        ]
+      },
+      "4": {
+        "p": [
+          "And that, regardless of the driver, value is a baseline expectation among Retail Competitors.",
+          "No matter if it's a budget brand or a premium brand. The consumer promise must be delivered."
+        ]
+      },
+      "5": {
+        "p": [
+          "So, if value is a foundational force of the Retail Category, it must also be central to our Territory Map.",
+          "The center of the map is the gravitational core and represents the highest level of specialization and consumer relevance within each territory."
+        ]
+      },
+      "6": {
+        "p": [
+          "Combining the category learnings, the intersections and the opportunities that had not yet been addressed, we created the Brand Activators Territory Map, based on the CVDs, aimed at managing both the current and future portfolio."
+        ]
+      }
+
+    },
+    "valueDrivers": {
+      "cvs": "CVDs",
+      "benefit": "Benefit Segmentation",
+      "makeUsFeel": "How shopping makes us feel",
+      "brandPower": "Brand Power",
+      "painPoints": "Pain Points",
+      "fabclean": "Brand Segmentation Hierarchy",
+      "behavioral": "Behavioral Segmentation",
+      "topDrivers": "Category Top Drivers",
+      "macroTrends": "Macro Trends"
+    }
+
+  },
+  "howTo": {
+    "finish": "Got it!",
+    "restart": "Start Over",
+    "1": {
+      "title": "How to read this?",
+      "p": "There are 7 Macro-Territories and 10 Brand Activators of the category"
+    },
+    "2": {
+      "title": "Macro-Territories",
+      "p": "The CVDs give rise to the macro-territories and serve as compasses."
+    },
+    "3": {
+      "title": "Brand Activators (Territories)",
+      "p": "Each macro-territory contains one or more <span class='font-semibold'>Brand Activators</span> — characteristics that define territories beyond the functional aspects of the category, addressing pain points, brand strength, trends, and the emotions connected to shopping."
+    },
+    "4": {
+      "title": "Tiers",
+      "p": "Brands from different tiers can coexist within the same Brand Activator.",
+      "floating": "The closer to the center, the greater the performance or the more specialized it is."
+    },
+    "5": {
+      "title": "Products and Brands",
+      "p": "Products and Brands can be placed in the Brand Activator Territory Map.<br>Be sure you fill the right spaces when you enter a new product or brand."
+    }
+  },
+  "mandala": {
+    "core": "Category Specialist"
+  },
+  "tiers": {
+    "0": "Ultra Premium",
+    "1": "Premium",
+    "2": "Core",
+    "3": "Value"
+  },
+  "home": {
+    "title": "Welcome to Bendito Branding Tools",
+    "p": [
+      "This tool was created to organize the Grupo Lumina's Brand Portfolio Play, which aims to define the role of brands in the Company and strategically organize the brand portfolio so that each brand can address opportunities across different categories in the market, with a future-ready perspective.",
+      "The Territory Map is a portfolio management tool that can and should be revisited according to new market movements and trends.",
+      "There is no right or wrong map. There is the one that makes the most sense for each company, in a specific category, within a given context."
+    ]
+  },
+  "quiz": {
+    "title": "Add new product",
+        "inputName": "Type the name of the product here",
+        "inputBrand": "Select the brand",
+        "inputProductFormat": "Select the product format",
+        "inputBrandArchitecture": "Select the architecture",
+        "selectClaims": "Select the claims",
+        "addImage": "Add an image",
+        "downloadPDF": "Download PDF",
+        "edit": "Edit",
+        "limitImage": "(png up to 2MB)",
+        "writeDesc": "Write a brief description here",
+        "saveConfirm": "Are you sure you want to save this product?",
+        "insertPass": "Please insert the <span class='font-semibold'>admin password</span> to add this product to the database",
+        "saveSuccess": "Product saved successfully",
+        "searchClaim": "Search or add new claim",
+        "concernings": {
+          "mt-1": {
+            "title": "Activates the desire for value and savings",
+            "desc": "By offering the best price-to-quality ratio and rewarding smart shopping choices"
+          },
+          "mt-2": {
+            "title": "Free of harmful ingredients",
+            "desc": "Organic, natural and certified products that put consumer health first"
+          },
+          "mt-3": {
+            "title": "Focus on superior quality and freshness",
+            "desc": "Premium sourcing, artisanal production and exceptional taste that elevate everyday consumption"
+          },
+          "mt-4": {
+            "title": "Prioritize practical and time-saving solutions",
+            "desc": "Easy preparation, convenient formats and seamless purchasing that fit the modern consumer's pace"
+          },
+          "mt-5": {
+            "title": "Sustainable and responsible",
+            "desc": "Environmental awareness and positive impact on communities and the planet"
+          },
+          "mt-6": {
+            "title": "Safe and consistently trusted",
+            "desc": "Certified quality, transparent labeling and reliable availability that families can count on"
+          },
+          "mt-7": {
+            "title": "Premium sensorial experiences",
+            "desc": "Inspiring discovery, pleasure and self-expression through unique and high-quality consumption experiences"
+          }
+        },
+        "claims": {
+          "mt-1": [
+            "Low price guarantee",
+            "Best value pack",
+            "Loyalty rewards",
+            "Weekly promotion",
+            "Cashback offer",
+            "Bulk savings",
+            "Price match guarantee"
+          ],
+          "mt-2": [
+            "Organic certified",
+            "No artificial additives",
+            "Natural ingredients",
+            "Gluten-free",
+            "Vegan certified",
+            "Non-GMO",
+            "Nutrient-rich"
+          ],
+          "mt-3": [
+            "Artisanal production",
+            "Farm-fresh sourcing",
+            "Premium ingredients",
+            "Award-winning recipe",
+            "Chef's selection",
+            "Locally sourced",
+            "Hand-picked"
+          ],
+          "mt-4": [
+            "Ready in minutes",
+            "No preparation needed",
+            "Grab & go format",
+            "Easy storage",
+            "Long shelf life",
+            "Available for delivery",
+            "One-click reorder"
+          ],
+          "mt-5": [
+            "Recyclable packaging",
+            "Locally sourced",
+            "Carbon neutral",
+            "Zero waste certified",
+            "Fair trade",
+            "B Corp certified",
+            "Rainforest Alliance"
+          ],
+          "mt-6": [
+            "Quality certified",
+            "Family-approved",
+            "Allergen-free labeling",
+            "Consistent restocking",
+            "Safety certified",
+            "Dermatologist tested"
+          ],
+          "mt-7": [
+            "Limited edition",
+            "International origin",
+            "Gourmet experience",
+            "Unique flavor profile",
+            "Specialty import",
+            "Discovery collection",
+            "Chef collaboration"
+          ]
+        },
+        "motivations": {
+          "tr-1": "For me, smart shopping means <span class='font-semibold'>finding the best value without compromising on what I need. I plan my purchases, compare prices, and feel the quiet satisfaction of spending well. Every good deal feels like a small victory. #SmartShopper #ValueFirst #BudgetWin #PlanAhead #SpendWell</span>",
+          "tr-2": "For me, shopping is about <span class='font-semibold'>providing the best for my family every single day. Bulk packs and value formats mean I can feed everyone well without the stress. Seeing my family happy at the table is worth everything. #FamilyFirst #BulkBuy #FeedTheCrowd #HomeHero #BigCartEnergy</span>",
+          "tr-3": "For me, <span class='font-semibold'>the thrill is in the deal. I check the weekly offers, collect loyalty points and never miss a great promotion. Getting something at a great price feels like winning — and I love to win. #DealHunter #PointsCollector #NeverPayFull #PromoKing #CashbackLife</span>",
+          "tr-4": "For me, <span class='font-semibold'>what I consume matters. I choose organic, natural and free-from products because my health and my family's wellbeing are non-negotiable. Clean labels give me peace of mind. #CleanEating #OrganicFirst #HealthConscious #LabelReader #WellnessFirst</span>",
+          "tr-5": "For me, <span class='font-semibold'>quality is everything. I seek out artisanal, fresh and premium products that elevate my everyday meals. Good food is not a luxury — it's how I show love for myself and the people I care about. #FoodLover #QualityFirst #ArtisanalLife #FreshIsBest #EatWell</span>",
+          "tr-6": "For me, <span class='font-semibold'>convenience is king. I want products that are ready fast, easy to store, and help me get dinner on the table without the stress. Life is busy — my groceries should keep up. #QuickAndEasy #NoFussFood #TimeIsMoney #GrabAndGo #EfficientLiving</span>",
+          "tr-7": "For me, <span class='font-semibold'>every purchase is a vote for the planet. I choose sustainable, locally sourced and eco-certified products because doing good and living well are not mutually exclusive. My trolley is my manifesto. #ConsciousConsumer #EcoFirst #ShopResponsibly #ZeroWaste #GreenBasket</span>",
+          "tr-8": "For me, <span class='font-semibold'>trust is everything. I go back to brands that consistently deliver what they promise. Certifications, clear labels and always being in stock matter more than trends or packaging. #TrustedBrands #ReliableFirst #AlwaysInStock #SafeChoice #ConsistencyWins</span>",
+          "tr-9": "For me, shopping is <span class='font-semibold'>my moment of indulgence. Those little treats and premium picks are how I reward myself for a busy week. I deserve to enjoy something special, and the right product makes all the difference. #TreatYourself #LittleLuxury #SelfReward #YouDeserveIt #SmallIndulgence</span>",
+          "tr-10": "For me, shopping is <span class='font-semibold'>an adventure. I love discovering unique, international and specialty products that tell a story and open up entirely new experiences. My trolley is a passport to the world. #FoodExplorer #WorldFlavors #DiscoverNew #SpecialtyFinds #CulinaryAdventure</span>"
+        },
+        "steps": {
+          "1": {
+            "main": "Does the product meet the minimum requirements to be listed in our portfolio?",
+            "list": [
+              "Consistent product availability",
+              "Competitive market pricing",
+              "Quality & safety certification",
+              "Clear labeling & product information",
+              "Reliable supply chain",
+              "Customer satisfaction standards"
+            ]
+          },
+          "2": {
+            "main": "So, you got two options:",
+            "list": [
+              "1. improve your product's offering to meet our portfolio listing standards",
+              "2. assess whether your product fits a different category or channel"
+            ]
+          },
+          "4": {
+            "main": "What is the priority concern of this <span class='font-semibold'>product</span>?"
+          },
+          "5": {
+            "main": "Does the product contain any of the following <span class='font-semibold'>priority claims</span>?"
+          },
+          "6": {
+            "main": "The macro-territory for your product is..."
+          },
+          "7": {
+            "main": "What is their <span class=‘font-semibold’>main motivation</span> for choosing the product?"
+          },
+          "8": {
+            "main": "The territory for your product is..."
+          }
+        }
+      }
+}

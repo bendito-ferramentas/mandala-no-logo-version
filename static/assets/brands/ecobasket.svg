@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#E8F5E9"/>
+  <path d="M60 80 Q90 50 120 80" fill="none" stroke="#388E3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M52 80 L128 80 L120 116 L60 116 Z" fill="none" stroke="#388E3C" stroke-width="3"/>
+  <line x1="75" y1="80" x2="70" y2="116" stroke="#388E3C" stroke-width="1.5"/>
+  <line x1="90" y1="80" x2="90" y2="116" stroke="#388E3C" stroke-width="1.5"/>
+  <line x1="105" y1="80" x2="110" y2="116" stroke="#388E3C" stroke-width="1.5"/>
+  <circle cx="90" cy="58" r="10" fill="#66BB6A"/>
+  <path d="M85 56 Q90 50 95 56 Q90 62 85 56Z" fill="#FFFFFF"/>
+  <text x="90" y="138" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#2E7D32" text-anchor="middle" letter-spacing="1">EcoBasket</text>
+  <text x="90" y="154" font-family="Arial, sans-serif" font-size="8" fill="#66BB6A" text-anchor="middle" letter-spacing="2">ZERO WASTE RETAIL</text>
+</svg>

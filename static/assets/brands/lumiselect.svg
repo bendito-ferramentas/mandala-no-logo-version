@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#1A3A5C"/>
+  <text x="90" y="80" font-family="Georgia, serif" font-size="15" font-weight="400" fill="#C8A96E" text-anchor="middle" letter-spacing="4">LUMI</text>
+  <text x="90" y="108" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">SELECT</text>
+  <line x1="40" y1="118" x2="140" y2="118" stroke="#C8A96E" stroke-width="1"/>
+  <text x="90" y="136" font-family="Georgia, serif" font-size="9" fill="#C8A96E" text-anchor="middle" letter-spacing="3">PREMIUM RANGE</text>
+</svg>

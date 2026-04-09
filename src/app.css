@@ -1,0 +1,197 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-primary;
+  }
+
+  textarea,
+  input[type="text"],
+  input[type="password"],
+  select {
+    @apply focus-visible:outline-none;
+  }
+
+  svg * {
+    @apply focus:outline-none;
+  }
+
+}
+
+@layer components {
+  .focus-outlined {
+    @apply focus-visible:outline focus-visible:outline-primary;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply text-base font-medium py-1 px-2.5 rounded-lg text-white bg-primary transition-all disabled:opacity-30;
+  }
+
+  .btn--primary {
+    @apply bg-primary text-white hover:bg-primary-darker;
+  }
+
+  .btn--secondary {
+    @apply bg-background text-primary border border-primary hover:bg-background-darker;
+  }
+
+  .btn--simplest {
+    @apply bg-transparent text-primary opacity-80 hover:opacity-100;
+  }
+
+
+  /* Removable claims */
+  .btn--removable {
+    @apply text-nowrap bg-white border border-opacity-50 border-primary text-primary;
+  }
+
+  .x {
+    @apply relative after:absolute after:content-['✕'] after:top-1/2 after:right-1 after:-translate-y-1/2 after:-translate-x-1/2  pr-8 after:opacity-40 hover:after:opacity-100 after:transition-opacity
+  }
+
+  .search-input {
+    @apply bg-background rounded-lg text-primary px-2.5 py-1.5 placeholder:italic placeholder:text-primary placeholder:opacity-60;
+  }
+
+  /* Input checkbox */
+  input.checkbox {
+    @apply hidden;
+  }
+
+  input.checkbox + label {
+    @apply cursor-pointer font-medium text-base py-1.5 px-2.5 rounded-lg text-primary border border-background-darker bg-background-darker transition-all;
+  }
+
+  input.checkbox:not(:checked) + label {
+    @apply opacity-80 hover:border-primary hover:bg-opacity-40;
+  }
+
+  input.checkbox:checked + label {
+    @apply opacity-100 bg-white border-primary;
+  }
+
+  .claim-tag {
+    @apply inline-block border border-primary rounded-lg text-primary py-1.5 px-2.5 font-medium text-base;
+  }
+
+  .tier-tag {
+    @apply text-sm text-center aspect-square flex items-center px-1.5 rounded-full shadow-sm bg-background text-primary;
+  }
+
+  .select-link {
+    @apply text-base text-left font-light underline underline-offset-2;
+  }
+
+  .select-link--sm {
+    @apply text-sm;
+  }
+}
+
+@layer utilities {
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+}
+
+*::-webkit-scrollbar {
+  width: 0.5rem; 
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: #EFEEEF;
+  border-radius: 1rem;
+
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #D1CFD3;
+  border-radius: 1rem;
+  opacity: 0.8;
+  transition: opacity 300ms ease-in-out;
+
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  opacity: 1;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-ExtraLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-LightIt.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-RegularIt.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-SemiBoldIt.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Mandioca';
+  src: url('/types/Mandioca/Mandioca-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}

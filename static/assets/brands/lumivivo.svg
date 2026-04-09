@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="90" fill="#2D6A4F"/>
+  <ellipse cx="90" cy="68" rx="22" ry="28" fill="#52B788"/>
+  <ellipse cx="72" cy="72" rx="14" ry="20" fill="#40916C" transform="rotate(-20 72 72)"/>
+  <ellipse cx="108" cy="72" rx="14" ry="20" fill="#40916C" transform="rotate(20 108 72)"/>
+  <text x="90" y="118" font-family="Trebuchet MS, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">LumiVivo</text>
+  <text x="90" y="138" font-family="Trebuchet MS, sans-serif" font-size="9" fill="#B7E4C7" text-anchor="middle" letter-spacing="2">ORGANIC &amp; NATURAL</text>
+</svg>

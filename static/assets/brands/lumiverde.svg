@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#D8F3DC"/>
+  <circle cx="90" cy="72" r="30" fill="none" stroke="#2D6A4F" stroke-width="3"/>
+  <path d="M90 48 Q110 62 90 76 Q70 62 90 48Z" fill="#2D6A4F"/>
+  <path d="M90 68 Q110 82 90 96 Q70 82 90 68Z" fill="#40916C"/>
+  <line x1="90" y1="76" x2="90" y2="102" stroke="#2D6A4F" stroke-width="2"/>
+  <text x="90" y="124" font-family="Trebuchet MS, sans-serif" font-size="16" font-weight="700" fill="#1B4332" text-anchor="middle" letter-spacing="3">LUMIVERDE</text>
+  <text x="90" y="142" font-family="Trebuchet MS, sans-serif" font-size="9" fill="#40916C" text-anchor="middle" letter-spacing="2">CONSCIOUS LIVING</text>
+</svg>

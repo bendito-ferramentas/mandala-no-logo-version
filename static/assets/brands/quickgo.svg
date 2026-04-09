@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#0D47A1"/>
+  <polygon points="62,56 118,90 62,124" fill="#FFFFFF"/>
+  <path d="M108,56 L142,56 L142,66 L108,66Z" fill="#FF6F00" rx="3"/>
+  <path d="M116,70 L142,70 L142,80 L116,80Z" fill="#FF6F00"/>
+  <path d="M124,84 L142,84 L142,94 L124,94Z" fill="#FF6F00"/>
+  <text x="90" y="148" font-family="Arial Black, sans-serif" font-size="20" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">QuickGo</text>
+</svg>

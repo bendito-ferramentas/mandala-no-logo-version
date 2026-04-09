@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="12" fill="#FF6B35"/>
+  <text x="90" y="86" font-family="Arial Black, sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" text-anchor="middle">Fresh</text>
+  <text x="90" y="116" font-family="Arial Black, sans-serif" font-size="28" font-weight="900" fill="#1C1C1C" text-anchor="middle">Mart</text>
+  <rect x="28" y="122" width="124" height="4" rx="2" fill="#FFFFFF"/>
+</svg>
